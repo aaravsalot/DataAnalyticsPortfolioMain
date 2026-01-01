@@ -1,5 +1,5 @@
 {
-    "homepage": "https://aaravsalot.github.io/DataAnalyticsPortfolio",
+    "homepage": "https://aaravsalot.github.io/DataAnalyticsPortfolioMain",
     "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build",
